@@ -66,10 +66,10 @@ body { background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAA
     margin:10px;
     padding: 10px;
 }
-.change a{
+.change li{
+    margin:5px;
+    padding:5px;
     color: white;
-    margin:10px;
-    padding: 5px;
 }
 .change a:hover{
     color:#000;
