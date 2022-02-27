@@ -12,7 +12,7 @@ function slideshow(caller){
         if(!stopSlideShow){
             changeSlider('next'); 
         }
-        else
+        else 
             clearInterval(interval)
     }, 2000)
 }
