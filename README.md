@@ -10,15 +10,15 @@ A content management system (CMS) for managing and organizing website content.
 
 ## Getting Started
 1. Clone the repository
-
+```bash
 $ git clone https://github.com/username/CMS.git
-
+```
 
 2. Install dependencies
-
+```bash
 $ cd CMS
 $ npm install
-
+```
 
 3. Start the development server
 
@@ -30,6 +30,11 @@ $ npm install
 3. Commit your changes
 4. Push to your branch
 5. Create a pull request
+
+## Author
+
+Raheleh Bayat - [GitHub](https://github.com/raheleh-bayat/cms)
+
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
